@@ -10,3 +10,9 @@ If any questions arise, don't hesitate to contact me via email
 [kathrin.spendier@quantinuum.com](mailto:kathrin.spendier@quantinuum.com). 
 
 There is a public TKET slack channel for community discussion and support. Click [here](https://tketusers.slack.com/join/shared_invite/zt-18qmsamj9-UqQFVdkRzxnXCcKtcarLRA#/shared-invite/email) to join. You can also join our [mailing list](https://list.cambridgequantum.com/cgi-bin/mailman/listinfo/tket-users) for updates on new pytket releases and features. If you have TKET support questions please send them to [tket-support@cambridgequantum.com](mailto:tket-support@cambridgequantum.com).
+
+## Useful Links
+
+- [Pytket User manual](https://cqcl.github.io/pytket/manual/index.html)
+- [Pytket API docs](https://cqcl.github.io/tket/pytket/api/)
+- [Pytket Notebook Examples](https://github.com/CQCL/pytket/tree/main/examples)
